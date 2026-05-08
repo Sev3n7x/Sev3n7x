@@ -5,7 +5,7 @@
 </div>
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Prata-del&style=flat-square&color=000000&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Sev3n7x&style=flat-square&color=000000&label=PROFILE+VIEWS)
 
 
 ---
